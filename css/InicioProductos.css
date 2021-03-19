@@ -1,0 +1,101 @@
+body{
+   
+    font-family: 'Montserrat', sans-serif;
+}
+.menu{
+    background-color: #9869a1;
+    
+}
+.img{
+    margin-left: 15%;
+    width: 70%;
+}
+.title{
+    position: absolute;
+    top: 45%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    font-weight: 800;
+    font-size: 3em;
+}
+.color1{
+    background-color:#44c6cf;
+    
+    
+}
+.color2{
+    background-color:#ff9900;
+    
+}
+.color3{
+    background-color:#aacf15;
+  
+  
+}
+.color4{
+    background-color: #ce6a6a;
+   
+}
+.color5{
+    background-color:#44c6cf;
+    
+}
+.sub{
+    margin-left: 40%;
+}
+.sub1{
+    margin-left: 30%;
+}
+.sub2{
+    margin-left: 25%;
+}
+.sub3{
+    margin-left: 25%;
+}
+.img1{
+    margin-left: 20%;
+}
+.redes{
+    width: 15%;
+}
+.footer{
+    background-color: #9869a1;
+  }
+  .redesf{
+    width: 10%;
+  
+  }
+.logo{
+    margin-left: 60%;
+}
+@media screen and (max-width:992px){
+
+    .color2{
+        margin-top: 5%;
+    }
+    .color3{
+        margin-top: 10%;
+    }
+    .color4{
+       margin-top:5% ;
+        margin-left: -5%;
+        
+    }
+    .color5{
+        margin-top:5% ;
+    }
+   
+   .sub2{
+       margin: auto;
+       margin-left: 7%;
+   }
+   .title{
+       font-size: 1.5em;
+   }
+   .redes{
+       width: 2%;
+   }
+   .logo{
+       width: 5%;
+   }
+ }

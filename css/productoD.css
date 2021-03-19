@@ -1,0 +1,73 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.menu{
+    background-color: #9869a1;
+    
+}
+h1{
+    font-weight: 800;
+    text-align: center;
+    font-size: 3em;
+}
+h2{
+    font-size: 1em;
+}
+.categoria{
+    text-align: center;
+    font-weight: 600;
+}
+h3{
+    font-weight: 500;
+    font-size: 1em;
+}
+.talla{
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.boton{
+    width: 10%;
+    background-color: #cac2cc;
+}
+.logo{
+    margin-left: 60%;
+}
+.footer{
+    color: white;
+    background-color: #9869a1;
+}
+.buton{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #fc3a91;
+    color: white;
+    font-weight: 600;
+   width: 30%;
+}
+.redes{
+    width: 15%;
+}
+@media screen and (max-width:992px){
+    .talla {
+   text-align: center;
+    }
+    
+    .precio{
+        margin-left: 30%;
+    }
+    .boton1{
+        width: 100%;
+        margin-left: 35%;
+    }
+    .logo{
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .formulario{
+        margin-left: 10%;
+    }
+    .imagen{
+        margin-left: 10%;
+    }
+
+}

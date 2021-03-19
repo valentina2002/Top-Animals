@@ -1,0 +1,62 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.cuadro{
+    width: 5px;
+   top: 60px;
+}
+.menu{
+    background-color: #9869a1;
+    
+}
+
+h2{
+    font-weight: 800;
+}
+.redes{
+    width: 15%;
+}
+/*footer*/
+.logo{
+    margin-left: 60%;
+}
+.footer{
+    color: white;
+    background-color: #9869a1;
+}
+.boton{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #fc3a91;
+    color: white;
+    font-weight: 600;
+   width: 30%;
+}
+@media screen and (max-width:992px){
+  
+    
+    .btnf{
+
+        margin-bottom: 10%;
+        margin-right: 30%;
+        width: 30%;
+    }
+    .imgs{
+        width: 90%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    h2{
+        
+        font-size: 1.5em;
+        margin-top: 5%;
+        margin-left: 15%;
+    }
+    .logo{
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .formulario{
+        margin-left: 10%;
+    }
+}

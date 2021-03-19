@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+   }
+   
+.menu{
+       background-color: #9869a1;
+       color: white;
+   }
+
+.btnf{
+    width: 15%;
+    margin-left: 40%;
+    margin-bottom: 3%;
+}
+.redes{
+    width: 15%;
+}´
+.footer{
+    background-color: #9869a1;
+}
+@media screen and (max-width:992px){
+  
+    .logo{
+        margin-left: 30%;
+    }
+    .btnf{
+
+        margin-bottom: 10%;
+        margin-right: 30%;
+        width: 30%;
+    }
+}

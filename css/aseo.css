@@ -1,0 +1,49 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+   }
+   
+.menu{
+       background-color: #9869a1;
+       color: white;
+   }
+
+.btnf{
+    width: 15%;
+    margin-left: 40%;
+    margin-bottom: 3%;
+}
+.redes{
+    width: 15%;
+}´
+.logo{
+    margin-left: 60%;
+}
+.footer{
+    color: white;
+    background-color: #9869a1;
+}
+.boton{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #fc3a91;
+    color: white;
+    font-weight: 600;
+   width: 30%;
+}
+@media screen and (max-width:992px){
+  
+
+    .btnf{
+
+        margin-bottom: 10%;
+        margin-right: 30%;
+        width: 30%;
+    }
+    .logo{
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .formulario{
+        margin-left: 10%;
+    }
+}
