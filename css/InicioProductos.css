@@ -61,12 +61,26 @@ body{
 .footer{
     background-color: #9869a1;
   }
-  .redesf{
+.redesf{
     width: 10%;
   
   }
+  .subt{
+      font-weight: 700;
+      font-size: 1em;
+  }
 .logo{
     margin-left: 60%;
+}
+.btn-outline-light:hover {
+    color: none;
+    background-color:transparent;
+    border-color: none;
+}
+.btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active, .show>.btn-outline-light.dropdown-toggle {
+    color: transparent;
+    background-color: transparent;
+    border-color: transparent;
 }
 @media screen and (max-width:992px){
 
@@ -92,10 +106,14 @@ body{
    .title{
        font-size: 1.5em;
    }
-   .redes{
-       width: 2%;
-   }
+    
    .logo{
-       width: 5%;
+       margin-left: 10%;
    }
+.btnf{
+
+    margin-bottom: 10%;
+    margin-right: 30%;
+    width: 30%;
+}
  }

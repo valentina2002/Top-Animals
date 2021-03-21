@@ -10,3 +10,18 @@ body{
    margin: auto;
    height: 40%;
 }
+@media screen and (max-width:992px){
+    .descripcion{
+        width: 90%;
+    }
+    .formu{
+        width: 80%;
+        
+    }
+}
+@media screen and (max-width:1123px){
+    .descripcion{
+        width: 90%;
+    }
+    
+}
